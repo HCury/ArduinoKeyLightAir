@@ -1,6 +1,6 @@
 # ArduinoKeyLightAir
 
-This is a simple arduino project that takes the Neewer 2 pack LED light pannels (https://www.amazon.com/Neewer-Dimmable-Adjustable-Tabletop-Photography/dp/B07T8FBZC2/ref=sr_1_5?crid=26YM9YEI5JLXQ&keywords=neewer+led+light&qid=1690158795&sprefix=neewer+led+lig%2Caps%2C133&sr=8-5) and transforms it into a light that can be controlled via stream deck. 
+This is a simple arduino project that takes the [Neewer 2 pack LED light pannels](https://www.amazon.com/Neewer-Dimmable-Adjustable-Tabletop-Photography/dp/B07T8FBZC2/ref=sr_1_5?crid=26YM9YEI5JLXQ&keywords=neewer+led+light&qid=1690158795&sprefix=neewer+led+lig%2Caps%2C133&sr=8-5) and transforms it into a light that can be controlled via stream deck. 
 
 ## Todo:
 1. Break the plastic control box attached to the wires
